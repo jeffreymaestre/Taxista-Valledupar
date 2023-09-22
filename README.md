@@ -55,7 +55,7 @@ Esta aplicación fue desarrollada en el año 2020 y se encuentra disponible en l
 
 ## Derechos de Autor y Licencia
 
-© 2021 [Jeffrey Maestre - Developer JAM]
+© 2020 [Jeffrey Maestre - Developer JAM]
 
 Este proyecto está protegido por derechos de autor. Aunque se fomentan las contribuciones y mejoras de la comunidad, la propiedad intelectual y los derechos de autor sobre el código y los recursos originales permanecen con los titulares de los derechos de autor. Los contribuyentes deben respetar estos derechos y no reclamar la autoría de partes originales de este proyecto.
 
